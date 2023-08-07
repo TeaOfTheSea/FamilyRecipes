@@ -2,7 +2,7 @@
 title: Pears & Camembert
 tags: ['Molly Tipton']
 date: 2023-08-07
-author: ""
+author: "Martha Stewart magazine via Molly Tipton"
 ---
 
 It's important the cheese is cold so it can be sliced; the glaze will warm it when poured on top.
