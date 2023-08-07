@@ -4,7 +4,20 @@ description: 'A Collection of Recipes from Multiple of my Family Members.'
 layout: single
 ---
 
-## Search:
+## Cookbooks:
+
+{{< tagcloud >}}
+
+## About:
+
+This site is a fork of [based.cooking](based.cooking) that I made because the original site prohibits sweets. Instead of just being a baking recipe site however, I've decided to go the direction of trying to archive a few family cookbooks in their entirety to preserve my family's culinary tradition somewhat.
+
+## Open source, but no contributions please!
+
+In the spirit of the website whose code I am using, the entirety of this site can be found [on Github](https://github.com/TeaOfTheSea/FamilyRecipes).
+That said, this is a personal project and I don't plan on adding any recipes that I do not personally curate.
+
+## Search All Recipes:
 
 <div class="search js-only">
   <input type="text" id="search" placeholder="Search ALL Recipes...">
@@ -23,7 +36,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const recipes = document.querySelectorAll("#artlist li");
   const search = document.getElementById("search");
-  const oldheading = document.getElementById("newest-recipes");
   const clearSearch = document.getElementById("clear-search");
   const artlist = document.getElementById("artlist");
 
@@ -34,7 +46,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const hasFilter = searchText.length > 0;
 
     artlist.classList.toggle("list-searched", hasFilter);
-    oldheading.classList.toggle("hidden", hasFilter);
 
     // for each recipe hide all but matched
     recipes.forEach(recipe => {
@@ -54,7 +65,6 @@ document.addEventListener("DOMContentLoaded", () => {
     })
 
     artlist.classList.remove("list-searched");
-    oldheading.classList.remove("hidden");
   })
 })
 // @license-end
@@ -62,15 +72,3 @@ document.addEventListener("DOMContentLoaded", () => {
 
 {{< artlist >}}
 
-## Cookbooks:
-
-{{< tagcloud >}}
-
-## About:
-
-This site is a fork of [based.cooking](based.cooking) that I made because the original site prohibits sweets. Instead of just being a baking recipe site however, I've decided to go the direction of trying to archive a few family cookbooks in their entirety to preserve my family's culinary tradition somewhat.
-
-## Open source, but no contributions please!
-
-In the spirit of the website whose code I am using, the entirety of this site can be found [on Github](https://github.com/TeaOfTheSea/FamilyRecipes).
-That said, this is a personal project and I don't plan on adding any recipes that I do not personally curate.
