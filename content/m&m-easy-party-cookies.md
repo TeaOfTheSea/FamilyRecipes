@@ -17,7 +17,7 @@ author: "Maureen Tipton"
 - 2 eggs
 - 2 teaspoons vanilla
 - 2 1/4 cups all purpose flour
-- 1 teaspoon soda (like coke, or baking soda?)
+- 1 teaspoon soda
 - 1 teaspoon salt
 - 1 1/2 cup of M&M plain candies
 
