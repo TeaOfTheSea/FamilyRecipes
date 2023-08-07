@@ -26,4 +26,4 @@ author: "Grandma Kill Maher via Maureen Tipton"
 1. Cream butter, sugar, and sour cream
 2. Add dry ingredients
 3. Mix well
-4. bake at 325* for 1 hour
+4. Bake at 325* for 1 hour

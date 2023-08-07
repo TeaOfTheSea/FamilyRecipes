@@ -20,7 +20,7 @@ Mud:
 - Dash of salt
 - 1/4 cup cocoa
 - 1 cup chopped pecans
-- 1 70 oz jar of marshmellow cream
+- 1 70 oz jar of marshmallow cream
 
 Frosting:
 - 1/3 cup butter or margarine
@@ -37,10 +37,10 @@ Mud:
 2. Beat effs, sugar, vanilla til fluffy
 3. Add dry ingredients
 4. Mix well, then spread in pan
-5. bake 40 to 45 min
-6. Immediately spread marshmellow cream
-7. let cool completely before frosting
+5. Bake 40 to 45 min
+6. Immediately spread marshmallow cream
+7. Let cool completely before frosting
 
 Frosting:
-1. cook butter & cocoa for 1 minute on low heat
+1. Cook butter & cocoa for 1 minute on low heat
 2. Add sugar (stir), milk (stir), then vanilla (stir?)
