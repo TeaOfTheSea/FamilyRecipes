@@ -1,4 +1,4 @@
-baseURL = 'https://based.cooking/'
+baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = 'Based Cooking'
 theme = 'lugo'
@@ -13,3 +13,4 @@ theme = 'lugo'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+theme = 'lugo'

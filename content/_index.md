@@ -1,10 +1,10 @@
 ---
-title: "🍲 Based Cooking 🍳"
-description: 'The fast-loading recipe site with cooking only and no ads.'
+title: "My Family Recipes"
+description: 'A Collection of Recipes from Multiple of my Family Members.'
 layout: single
 ---
 
-## What do you want to cook?
+## Search:
 
 <div class="search js-only">
   <input type="text" id="search" placeholder="Search ALL Recipes...">
@@ -60,26 +60,17 @@ document.addEventListener("DOMContentLoaded", () => {
 // @license-end
 </script>
 
-## Newest Recipes
-
 {{< artlist >}}
 
-## Or Browse by Category...
+## Cookbooks:
 
 {{< tagcloud >}}
 
-## About this site
+## About:
 
-Founded to provide a simple online cookbook without ads and obese web design.
-See the story of this site unfold in three videos:
+This site is a fork of [based.cooking](based.cooking) that I made because the original site prohibits sweets. Instead of just being a baking recipe site however, I've decided to go the direction of trying to archive a few family cookbooks in their entirety to preserve my family's culinary tradition somewhat.
 
-- [A Demonstration of Modern Web Bloat](https://odysee.com/@Luke:7/a-demonstration-of-modern-web-bloat:f)
-- [The War Against Web Bloat Continues...](https://odysee.com/@Luke:7/the-war-against-web-bloat-continues...:a)
-- [SoyDevs DESTROYED Epic Style by Based Cooking!](https://odysee.com/@Luke:7/soydevs-destroyed-epic-style-by-based:6)
+## Open source, but no contributions please!
 
-## It's easy to contribute!
-
-New recipes can be submitted [on Github](https://github.com/lukesmithxyz/based.cooking).
-We are funded by you only, not 20MB of ads or privacy-violating trackers per page.
-
-{{< crypto >}}
+In the spirit of the website whose code I am using, the entirety of this site can be found [on Github](https://github.com/TeaOfTheSea/FamilyRecipes).
+That said, this is a personal project and I don't plan on adding any recipes that I do not personally curate.
