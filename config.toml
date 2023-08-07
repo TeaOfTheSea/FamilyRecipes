@@ -13,4 +13,3 @@ theme = 'lugo'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-theme = 'lugo'
