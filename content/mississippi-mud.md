@@ -4,6 +4,7 @@ tags: ['Molly Tipton']
 date: 2023-08-06
 author: "LHJ Magazine via maureen Tipton"
 ---
+From: LHJ Magazine via maureen Tipton
 
 - ⏲️ Prep time: N/A
 - 🍳 Cook time: 40-45 min

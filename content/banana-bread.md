@@ -2,8 +2,9 @@
 title: Banana Bread
 tags: ['Molly Tipton']
 date: 2023-08-07
-author: "Grandma Kill Maher via Maureen Tipton"
+author: "Grandma Jill Maher via Maureen Tipton"
 ---
+From: Grandma Jill Maher via Maureen Tipton
 
 - ⏲️ Prep time: N/A
 - 🍳 Cook time: 1 hour
