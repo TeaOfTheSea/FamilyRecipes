@@ -1,6 +1,6 @@
 ## About:
 
-This site is a fork of [based.cooking](based.cooking) that I made because the original site prohibits sweets. Instead of just being a baking recipe site however, I've decided to go the direction of trying to archive a few family cookbooks in their entirety to preserve my family's culinary tradition somewhat.
+This site is a fork of [based.cooking](https://based.cooking/) that I made because the original site prohibits sweets. Instead of just being a baking recipe site however, I've decided to go the direction of trying to archive a few family cookbooks in their entirety to preserve my family's culinary tradition somewhat.
 
 ## Open source, but no contributions please!
 
