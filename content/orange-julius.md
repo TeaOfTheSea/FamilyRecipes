@@ -17,6 +17,7 @@ From: Maureen Tipton
 - 1 cup milk (evaporated milk is best)
 - 1/4 cup sugar
 - 1 teaspoon vanilla
+- Lots of ice
 
 ## Directions
 
