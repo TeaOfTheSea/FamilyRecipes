@@ -21,7 +21,7 @@ It takes much less time to make the cranberry version of these, as there is no p
 - 4 cups quick cooking oats
 - 1 1/2 cups packed light brown sugar
 - 1 1/2 (3 sticks) unsalted butter, cut into 1/2-inch pieces
-- 1 cranberry or apple filling
+- 1 [cranberry](/cranberry-filling/) or [apple filling](/apple-filling/)
 
 ## Directions
 
