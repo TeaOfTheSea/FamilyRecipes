@@ -2,9 +2,9 @@
 title: Cherry Nut Bread
 tags: ['Molly Tipton']
 date: 2023-08-07
-author: "N/A"
+author: "Maureen Tipton"
 ---
-From: N/A
+From: Maureen Tipton
 
 - ⏲️ Prep time: N/A
 - 🍳 Cook time: 50-60 min

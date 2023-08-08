@@ -2,9 +2,9 @@
 title: OCS Lemon Bars
 tags: ['Molly Tipton']
 date: 2023-08-08
-author: "N/A"
+author: "Maureen Tipton"
 ---
-From: N/A
+From: Maureen Tipton
 
 - ⏲️ Prep time: N/A
 - 🍳 Cook time: 40 min
