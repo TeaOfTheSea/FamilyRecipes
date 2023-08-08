@@ -33,7 +33,7 @@ Begin step one the day before you plan to bake these cookies.
 6. Process until mixture is in crumbs and starts to hold together
 
 7. Heat oven to 400*
-8. Line and 11-by- 17 inch baking pan with parchment paper
+8. Line an 11-by-17 inch baking pan with parchment paper
 9. Press dough evenly into the bottom and up the sides of the pan, making sure there are no holes. There should be at least 1/2 inch crust of dough going up the sides of the pan
 10. Bake until golden brown, about 20 minutes
 11. Transfer to a wire rack to cool completely, about 15 minutes
