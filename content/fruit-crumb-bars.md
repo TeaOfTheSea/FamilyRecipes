@@ -29,7 +29,7 @@ It takes much less time to make the cranberry version of these, as there is no p
 2. In a large bowl, whisk together flour, baking soda, salt, and cinnamon
 3. Stir in oats and brown sugar
 4. using fingers, cut butter into mixture until combined; mixture should be crumbly but hold together
-
+<br/><br/>
 5. Line an 11-by-17 inch baking pan with parchment paper
 6. Press 5 cups oat mixture into bottom of pan
 7. Spread filling over oat mixture

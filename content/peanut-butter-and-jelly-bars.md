@@ -31,7 +31,7 @@ From: Martha Stewart magazine
 4. Beat on medium-high speed until fluffy, about 2 minutes
 5. On medium speed, add eggs and peanut butter
 6. Beat until combined, about two minutes
-
+<br/><br/>
 7. Whisk together salt, baking powder, and flour
 8. Add to bowl of mixer on low speed; combine
 9. Add vanilla

@@ -25,14 +25,14 @@ From: Martha Stewart magazine
 3. Bake until golden and fragrant, 10 to 15 minutes
 4. Transfer to a wire rack to cool
 5. Chop roughly and set aside
-
+<br/><br/>
 6. In the bowl of an electric mixer fitted with the paddle attachment, cream butter and sugar until light
 7. On low speed, add flour, and mix until just combined
-
+<br/><br/>
 8. Line an 11-by-17-inch baking pan with parchment paper
 9. Press dough into the bottom of baking pan in an even layer
 10. Bake until golden, about 20 minutes
-
+<br/><br/>
 11. Using a microwave or double boiler, heat the caramel for cookies until liquid
 12. Stir in the pecans, and spread mixture over the cookie layer
 13. Return pan to oven, and bake until the caramel is slightly darkened, about 10 minutes

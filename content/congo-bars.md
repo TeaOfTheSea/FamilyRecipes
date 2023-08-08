@@ -26,7 +26,7 @@ Cashews, hazelnuts, walnuts, almonds, or pecans are all fine substitutes for the
 1. Heat oven to 350*
 2. Spread macadamia nuts on baking sheet, and bake until golden, about 10 minutes
 3. Set baking sheet on a wire rack to cool
-
+<br/><br/>
 4. Line an 11-by-18-inch baking pan with parchment paper
 5. Using a food processor or rolling pin, finely crush graham crackers
 6. Place in a medium bowl
@@ -34,7 +34,7 @@ Cashews, hazelnuts, walnuts, almonds, or pecans are all fine substitutes for the
 8. Press mixture into the bottom of prepared baking pan in an even layer
 9. Sprinkle the coconut over the chocolate
 10. Sprinkle the reserved nuts over the coconut
-
+<br/><br/>
 11. Using a microwave or double boiler, heat the caramel for cookies until liquid
 12. Drizzle caramel over macadamia nuts
 13. Bake until golden, about 20 minutes

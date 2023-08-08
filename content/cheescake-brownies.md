@@ -31,13 +31,13 @@ Cream cheese may be substituted for mascarpone; the topping will be dense and ta
 3. Whisk together flour, baking powder, and salt, and set aside
 4. In the top of a barely simmering double boiler, melt together chocolate and butter
 5. Remove from heat
-
+<br/><br/>
 6. In the bowl of an electric mixer fitted with the whisk attachment, beat together 3 eggs and 1 cup sugar on high speed until thick and fluff, about 5 minutes
 7. On low speed, add reserved chocolate mixture and 1 teaspoon vanilla extract
 8. When combined, add flour mixture
 9. Stir until just combined
 10. Spread mixture evenly into prepared pan; Set aside
-
+<br/><br/>
 11. In the clean bowl of the electric mixer fitted with the paddle attachment, beat together mascarpone cheese, remaining eggs and yolks, remaining sugar, and remaining vanilla on medium speed until smooth
 12. Pour over chocolate mixture
 13. Bake until cheese mixture is golden and set, about 35 minutes
