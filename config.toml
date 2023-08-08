@@ -1,7 +1,7 @@
 baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = 'My Family Recipes'
-theme = 'lugo'
+theme = 'blugo'
 
 [params]
   favicon = "/favicon.svg"
