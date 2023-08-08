@@ -16,7 +16,7 @@ From: Martha Stewart magazine
 - 1 1/2 cups (3 sticks) unsalted butter
 - 3/4 cup packed light-brown sugar
 - 2 1/4 cups all-purpose flour
-- 1 portion of caramel for cookies
+- 1 portion of [Caramel for Cookies](/caramel-for-cookies/)
 
 ## Directions
 

@@ -16,7 +16,7 @@ For a quicker version of these, air popped popcorn is fine.
 
 - 2 tablespoons vegetable oil, plus more for pans
 - 3/4 cups popping corn (enough to make 12 cups popped)
-- 1 1/2 portions of caramel for cookies
+- 1 1/2 portions of [Caramel for Cookies](/caramel-for-cookies/)
 - 2 cups salted peanuts
 
 ## Directions

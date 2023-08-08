@@ -19,7 +19,7 @@ Cashews, hazelnuts, walnuts, almonds, or pecans are all fine substitutes for the
 - 1/2 cup (1 stick) unsalted butter, melted
 - 10 ounces bittersweet chocolate, finely chopped
 - 1 1/2 cups packed sweetened shredded coconut
-- 1 serving of caramel for cookies
+- 1 serving of [Caramel for Cookies](/caramel-for-cookies/)
 
 ## Directions
 

@@ -6,7 +6,7 @@ author: "Martha Stewart magazine"
 ---
 From: Martha Stewart magazine
 
-This recipe is used for Golden Popcorn Squares, Congo Bars, and Pecan Caramel Shortbread and can easily be halved or doubled.
+This recipe is used for [Golden Popcorn Squares](/golden-popcorn-squares/), [Congo Bars](/congo-bars/), and [Pecan Caramel Shortbread}(/pecan-caramel-shortbread/) and can easily be halved or doubled.
 
 - ⏲️ Prep time: N/A
 - 🍳 Cook time: N/A
