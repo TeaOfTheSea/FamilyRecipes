@@ -13,6 +13,7 @@ From: LHJ Magazine via maureen Tipton
 ## Ingredients
 
 Mud:
+
 - 4 eggs
 - 1 cup butter or margarine
 - 2 cups sugar
@@ -24,6 +25,7 @@ Mud:
 - 1 70 oz jar of marshmallow cream
 
 Frosting:
+
 - 1/3 cup butter or margarine
 - 1/2 cup cocoa
 - 1/3 cup milk
@@ -33,6 +35,7 @@ Frosting:
 ## Directions
 
 Mud:
+
 1. Preheat oven to 350*
 2. Grease 13x9 aluminum pan
 2. Beat effs, sugar, vanilla til fluffy
@@ -43,5 +46,6 @@ Mud:
 7. Let cool completely before frosting
 
 Frosting:
+
 1. Cook butter & cocoa for 1 minute on low heat
 2. Add sugar (stir), milk (stir), then vanilla (stir?)
