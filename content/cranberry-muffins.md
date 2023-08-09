@@ -12,7 +12,7 @@ From: N/A
 
 ## Ingredients
 
-- 1/4 cup oil (specify type)
+- 1/4 cup vegtable oil
 - 1 beaten egg
 - 1/2 cup milk
 - 1 1/2 cup flour

@@ -6,7 +6,7 @@ author: "N/A"
 ---
 From: N/A
 
-For buttermilk, [incomprehensible] 1/[incomprehensible] teaspoon baking soda in flour mix. Increase shortening to 1/3 cup and use buttermilk instead of milk.
+For buttermilk, sift 1/4 teaspoon baking soda in flour mix. Increase shortening to 1/3 cup and use buttermilk instead of milk.
 
 - ⏲️ Prep time: N/A
 - 🍳 Cook time: 12-15 min
