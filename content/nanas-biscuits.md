@@ -1,5 +1,5 @@
 ---
-title: Biscuits (for Biscuits & Gravy)
+title: Nana's Biscuits
 tags: ['Molly Tipton']
 date: 2023-08-09
 author: "Maureen Tipton"
