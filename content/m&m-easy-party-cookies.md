@@ -1,6 +1,6 @@
 ---
 title: M&M Easy Party Cookies
-tags: ['Molly Tipton']
+tags: ['Molly Tipton','Maureen Tipton']
 date: 2023-08-06
 author: "Maureen Tipton"
 ---
@@ -29,6 +29,5 @@ From: Maureen Tipton
 3. Add salt, soda, flour
 4. Mix well
 5. Add M&Ms
-6. Mix again
 7. Place cookies on ungreased cookie sheet
 8. Bake at 375* for 10-12 min
