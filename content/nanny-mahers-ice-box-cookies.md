@@ -21,7 +21,7 @@ Optionaly add 4 tablespoons of cocoa to dry ingredients.
 - 1/2 teaspoon baking soda
 - 1/2 teaspoon cream of tartar
 - 1 teaspoon vanilla
-- 1/2 [unit not listed] chopped pecans
+- 1/2 cup chopped pecans
 
 ## Directions
 
