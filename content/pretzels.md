@@ -20,7 +20,7 @@ From: N/A
 - 1 tablespoon bakign soda
 - 1 cup boiling water
 - 1 egg (beaten)
-- kosher salt
+- Kosher salt
 
 ## Directions
 

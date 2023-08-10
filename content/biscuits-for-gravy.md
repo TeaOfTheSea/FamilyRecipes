@@ -2,9 +2,9 @@
 title: Biscuits (for Biscuits & Gravy)
 tags: ['Moll Tipton']
 date: 2023-08-09
-author: "N/A"
+author: "Maureen Tipton"
 ---
-From: N/A
+From: Maureen Tipton
 
 For buttermilk, sift 1/4 teaspoon baking soda in flour mix. Increase shortening to 1/3 cup and use buttermilk instead of milk.
 

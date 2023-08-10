@@ -2,9 +2,9 @@
 title: Cranberry Muffins
 tags: ['Molly Tipton']
 date: 2023-08-09
-author: "N/A"
+author: "Maureen Tipton"
 ---
-From: N/A
+From: Maureen Tipton
 
 - ⏲️ Prep time: N/A
 - 🍳 Cook time: 20-25 min
