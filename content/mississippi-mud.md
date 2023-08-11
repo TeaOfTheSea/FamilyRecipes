@@ -30,7 +30,7 @@ Frosting:
 - 1/2 cup cocoa
 - 1/3 cup milk
 - 1 teaspoon vanilla
-- 1 1/2 cups confectionery sugar
+- 2 1/2 cups confectionery sugar
 
 ## Directions
 
@@ -38,7 +38,7 @@ Mud:
 
 1. Preheat oven to 350*
 2. Grease 13x9 aluminum pan
-2. Beat effs, sugar, vanilla til fluffy
+2. Beat eggs, sugar, vanilla til fluffy
 3. Add dry ingredients
 4. Mix well, then spread in pan
 5. Bake 40 to 45 min
@@ -48,4 +48,4 @@ Mud:
 Frosting:
 
 1. Cook butter & cocoa for 1 minute on low heat
-2. Add sugar (stir), milk (stir), then vanilla (stir?)
+2. Add sugar, milk, then vanilla
