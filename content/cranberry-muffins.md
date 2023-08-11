@@ -18,12 +18,14 @@ From: Maureen Tipton
 - 1 1/2 cup flour
 - 1/2 cup sugar
 - 2 teaspoons baking powder
+- 1/2 teaspoon salt
 - 1 cup chopped cranberries
-- 1 tablespoon grated orange peel
+- 1 tablespoon grated orange rind
 
 ## Directions
 
 1. Mix oil, egg, and milk
-2. In a separate container, mix flour, sugar, baking powder, salt, cranberries, and orange peel
+2. In a separate container, mix flour, sugar, baking powder, salt
 3. Combine the two mixtures and stir till everything is moistened
+4. Gently fold in cranberries and orange rind
 4. Bake for 20-25 minutes at 400*
