@@ -2,9 +2,9 @@
 title: Mississippi Mud
 tags: ['Molly Tipton']
 date: 2023-08-06
-author: "LHJ Magazine via maureen Tipton"
+author: "LHJ Magazine via Maureen Tipton"
 ---
-From: LHJ Magazine via maureen Tipton
+From: LHJ Magazine via Maureen Tipton
 
 - ⏲️ Prep time: N/A
 - 🍳 Cook time: 40-45 min
