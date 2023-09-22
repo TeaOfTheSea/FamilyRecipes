@@ -8,7 +8,7 @@ From: Maureen Tipton
 
 - ⏲️ Prep time: N/A
 - 🍳 Cook time: 45 min
-- 🍽️ Servings: 2 quart casserole
+- 🍽️ Servings: serves 6-8
 
 ## Ingredients
 
