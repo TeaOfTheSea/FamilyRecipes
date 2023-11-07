@@ -1,6 +1,6 @@
 ---
 title: Cheese Grits
-tags: ['Molly Tipton']
+tags: ['Molly Tipton', 'Maureen Tipton']
 date: 2023-08-08
 author: "Maureen Tipton"
 ---
