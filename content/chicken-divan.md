@@ -1,6 +1,6 @@
 ---
 title: Chicken Divan
-tags: ['Molly Tipton']
+tags: ['Molly Tipton', 'Maureen Tipton']
 date: 2023-08-07
 author: "Denise Merritt"
 ---
@@ -24,4 +24,9 @@ From: Denise Merritt
 
 ## Directions
 
-1. 
+1. Layer broccoli and diced chicken
+2. Tear the bread into pieces
+3. Place bread pieces on chicken and top with cheese
+4. Mix the soup, lemon juice, curry powder, mayonnaise, & milk
+5. Pour over the chicken, broccoli, bread and cheese
+6. Bake uncovered at 350* for about 30 minutes or until bubbly
