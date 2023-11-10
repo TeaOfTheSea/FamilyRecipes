@@ -17,7 +17,6 @@ This is really good with a red tip salad with a red wine, vinegar dressing, & cr
 - 2 pounds of 2 inch cubes of beef
 - 1/2 pound bacon
 - 2 teaspoons salt
-- 1/4 teaspoon salt
 - 1/4 teaspoon pepper
 - 1/3 cup olive oil or bacon drippings
 - 1 cup chopped onion
